@@ -1,0 +1,14 @@
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\bin\Debug\A05-TCPIPServer.exe.config
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\bin\Debug\A05-TCPIPServer.exe
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\bin\Debug\A05-TCPIPServer.pdb
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\A05.csprojAssemblyReference.cache
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\MainWindow.g.cs
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\App.g.cs
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\A05-TCPIPServer_MarkupCompile.cache
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\A05-TCPIPServer_MarkupCompile.lref
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\MainWindow.baml
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\A05-TCPIPServer.g.resources
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\A05_TCPIPServer.Properties.Resources.resources
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\A05.csproj.GenerateResource.cache
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\A05-TCPIPServer.exe
+C:\Users\diver\Desktop\Windows Prog\A05-TCPIPServer\A05-TCPIPServer\obj\Debug\A05-TCPIPServer.pdb

@@ -1,0 +1,9 @@
+C:\Users\diver\Desktop\Windows Prog\A06\A06\bin\Debug\A06.exe.config
+C:\Users\diver\Desktop\Windows Prog\A06\A06\bin\Debug\A06.exe
+C:\Users\diver\Desktop\Windows Prog\A06\A06\bin\Debug\A06.pdb
+C:\Users\diver\Desktop\Windows Prog\A06\A06\obj\Debug\A06.csprojAssemblyReference.cache
+C:\Users\diver\Desktop\Windows Prog\A06\A06\obj\Debug\A06.A06Service.resources
+C:\Users\diver\Desktop\Windows Prog\A06\A06\obj\Debug\A06.ProjectInstaller.resources
+C:\Users\diver\Desktop\Windows Prog\A06\A06\obj\Debug\A06.csproj.GenerateResource.cache
+C:\Users\diver\Desktop\Windows Prog\A06\A06\obj\Debug\A06.exe
+C:\Users\diver\Desktop\Windows Prog\A06\A06\obj\Debug\A06.pdb
