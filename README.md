@@ -81,11 +81,11 @@ Enter your name, the port number, and the IP address that the server is using (i
 
 Once the program is installed, the user will be able to start playing the game by entering their name, port number, and the ip address. The program will attempt to connect to the server, and once connected, the text boxes and buttons will be enabled. The user can now play.  
 
-<img src="./img/capture.jpg"><br>
+<img src="./img/Capture.JPG"><br>
 <P>Example of the client application open. Here you can see the name box, port number box, and ip address box that the user must enter details into before hitting the "Connect to Server" button.</p>
-<img src="./img/img1.jpg"><br>
+<img src="./img/img1.JPG"><br>
 <p>Example of user connected to game and playing the game. They have already made some guesses and the range has changed. They are about to enter "5" as their next guess for the game.</p>
-<img src="./img/img2.jpg"><br>
+<img src="./img/img2.JPG"><br>
 <p>Example of user winning the game, and the prompt to the user to confirm they want to disconnect from the game after hitting the "disconnect" button.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
